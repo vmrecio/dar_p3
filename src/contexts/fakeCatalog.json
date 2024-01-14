@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Bella Toes",
+    "price": 675,
+    "currency": "€",
+    "image": "images/s1.jpg",
+    "category": "Casual",
+    "rating": "5"
+  },
+  {
+    "id": 2,
+    "name": "Chikku Loafers",
+    "price": 405,
+    "currency": "€",
+    "image": "images/s2.jpg",
+    "category": "Casual",
+    "rating": "4"
+  },
+  {
+    "id": 3,
+    "name": "(SRV) Sneakers",
+    "price": 375,
+    "currency": "€",
+    "image": "images/s3.jpg",
+    "category": "Deporte",
+    "rating": "5"
+  },
+  {
+    "id": 4,
+    "name": "Shuberry Heels",
+    "price": 575,
+    "currency": "€",
+    "image": "images/s4.jpg",
+    "category": "Formal",
+    "rating": 3
+  },
+  {
+    "id": 5,
+    "name": "Red Bellies",
+    "price": 325,
+    "currency": "€",
+    "image": "images/s5.jpg",
+    "category": "Formal",
+    "rating": 3
+  },
+  {
+    "id": 6,
+    "name": "Catwalk Flats",
+    "price": 425,
+    "currency": "€",
+    "image": "images/s6.jpg",
+    "category": "Verano",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "price": 875,
+    "currency": "€",
+    "image": "images/s7.jpg",
+    "category": "Casual",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Sukun Casuals",
+    "price": 505,
+    "currency": "€",
+    "image": "images/s8.jpg",
+    "category": "Casual",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Bank Sneakers",
+    "price": 635,
+    "currency": "€",
+    "image": "images/s9.jpg",
+    "category": "Casual",
+    "rating": 4
+  }
+]
